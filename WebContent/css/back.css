@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body{
+	text-align-last:rigth;
+	background-image:url(../css/img/userlogin.jpg);
+	background-size:100%,100%;
+}
+#divone{
+margin-top: 150px;
+margin-left: 650px;
+width:400px;
+height:250px;
+background-color:#fff;
+border:solid 2px #0000FF;
+}
+#register{
+	margin-left: 50px;
+}
